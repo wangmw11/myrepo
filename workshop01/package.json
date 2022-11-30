@@ -1,0 +1,15 @@
+{
+  "name": "workshop01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangmw11/myrepo/workshop01/"
+  },
+  "author": "",
+  "license": "ISC"
+}
